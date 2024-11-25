@@ -19,3 +19,7 @@ En este repositorio se puede ver el desarrollo del proyecto final del módulo 3 
 - Entender la información del conjunto de datos.
 - EDA para identificar las transformaciones de datos imprescindibles.
 - Visualizaciones de los datos transformados.
+
+
+## .gitignore
+- Se ha utilizado un .gitignore modelo para python sacado de https://github.com/github/gitignore/blob/main/Python.gitignore
